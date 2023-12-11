@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hw7_frontend/static/css/main.b64871bf.css",
+    "main.js": "/hw7_frontend/static/js/main.ce882b78.js",
+    "static/js/787.daf3cb9a.chunk.js": "/hw7_frontend/static/js/787.daf3cb9a.chunk.js",
+    "static/media/banana.svg": "/hw7_frontend/static/media/banana.87bfd8f58f4653b0c00816944434fbcb.svg",
+    "static/media/cherry.svg": "/hw7_frontend/static/media/cherry.a990de0a1c2cbdbe516b1f8d165597b2.svg",
+    "static/media/kiwi.svg": "/hw7_frontend/static/media/kiwi.bf951786726f2127946fb2c1674da854.svg",
+    "static/media/pear.svg": "/hw7_frontend/static/media/pear.e22fcded3c9855b926bcb4a550f25ebd.svg",
+    "static/media/mango.svg": "/hw7_frontend/static/media/mango.00ac26e5db2eeaa17e521288b6b01c6a.svg",
+    "static/media/watermelon.svg": "/hw7_frontend/static/media/watermelon.77b0c3fbe6df07899699783d4a59cf6e.svg",
+    "index.html": "/hw7_frontend/index.html",
+    "main.b64871bf.css.map": "/hw7_frontend/static/css/main.b64871bf.css.map",
+    "main.ce882b78.js.map": "/hw7_frontend/static/js/main.ce882b78.js.map",
+    "787.daf3cb9a.chunk.js.map": "/hw7_frontend/static/js/787.daf3cb9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b64871bf.css",
+    "static/js/main.ce882b78.js"
+  ]
+}
