@@ -1,0 +1,33 @@
+.goods-box {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+  column-gap: 3%;
+  row-gap: 20px;
+}
+.goods-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  flex: 1 1 30%;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 5px grey;
+  border-radius: 5px;
+  transition: all .5s;
+}
+.goods-card:hover{
+  box-shadow: 4px 4px 10px rgb(109, 127, 99);
+
+}
+
+.goods-card__imageBox {
+  max-width: 100%;
+}
+.goods-card__imageBox img {
+  width: 100%;
+}
